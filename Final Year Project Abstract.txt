@@ -1,0 +1,11 @@
+## title-ADVANCED TECHNIQUES FOR DETECTING IMAGE AND DATA 
+FORGERY
+With the advancement of technology in the Digital World, various image forgery and data 
+manipulation techniques have become increasingly sophisticated. Digital Images are critical evidence 
+in criminal investigations, insurance claims and journalism[1]. A survey by LocalCircles claimed that 
+out of 32,000 people, 30% reported that one in four videos they watch are fake[2]. Data Forgery with 
+malicious intent can have adverse effects on politics, provide misinformation and may promote 
+gender-based violence[3].We aim first to identify key parameters that indicate image manipulation 
+like ELA(Error Level analysis), noise level patterns etc. Our study focuses on determining the 
+tampered regions in an image using deep learning architectures and the key parameters listed above. 
+We further plan to provide analysis in video forgery detection.
