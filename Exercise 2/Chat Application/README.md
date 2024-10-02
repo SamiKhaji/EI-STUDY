@@ -31,6 +31,6 @@ Start sending and receiving messages in real-time.
 
 ## private messaging
 To send a private message, a user types the command in the format:
-## /pm [recipient_username] [message]
+# /pm [recipient_username] [message]
 
 
