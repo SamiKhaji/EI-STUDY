@@ -30,7 +30,6 @@ Enter the server address, username, and a unique room ID to join or create a cha
 Start sending and receiving messages in real-time.
 
 ## private messaging
-To send a private message, a user types the command in the format:
-# /pm [recipient_username] [message]
+To send a private message, a user types the command in the format:: /pm [recipient_username] [message]
 
 
